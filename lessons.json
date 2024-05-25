@@ -12,9 +12,9 @@
     "payment_url": "https://auth.robokassa.ru/merchant/Invoice/v0I20GWaMkuxxyUUOkzBqg"
   },
   {
-    "title": "Тестовый",
+    "title": "Тестовый2222",
     "description": "Тест.22222",
-    "price": "5",
-    "payment_url": "https://auth.robokassa.ru/merchant/Invoice/m_gHNBlO7kmWEblCed_zDQ"
+    "price": "52",
+    "payment_url": "https://auth.robokassa.ru/merchant/Invoice/m_gHNBlO7kmWEblCed_zDQdelete"
   }
 ]
