@@ -10,5 +10,11 @@
     "description": "Узнайте методы очищения сознания и настройки на позитивный лад.",
     "price": "1500",
     "payment_url": "checkout.html?item=Практика очищения мыслей от негатива&price=1500"
+  },
+  {
+    "title": "Тестовый",
+    "description": "Тест.",
+    "price": "5",
+    "payment_url": "checkout.html?item=Тестовый&price=5"
   }
 ]
