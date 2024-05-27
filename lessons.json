@@ -1,20 +1,8 @@
 [
   {
-    "title": "Урок медитации",
-    "description": "Научитесь основам медитации для достижения внутреннего спокойствия.",
-    "price": "1200",
+    "title": "Порча. Видеоурок + курс",
+    "description": "Сборник лучших практик по определению и снятию порчи. Вся необходимая база, которую нужно знать. 8 документов или 73 способа стать экспертом.",
+    "price": "2000",
     "payment_url": "https://auth.robokassa.ru/merchant/Invoice/wTIDsQTjCE215i71yYUQVg"
   },
-  {
-    "title": "Практика очищения мыслей от негатива",
-    "description": "Узнайте методы очищения сознания и настройки на позитивный лад.",
-    "price": "1500",
-    "payment_url": "https://auth.robokassa.ru/merchant/Invoice/v0I20GWaMkuxxyUUOkzBqg"
-  },
-  {
-    "title": "Тестовый",
-    "description": "Тест.",
-    "price": "5",
-    "payment_url": "https://auth.robokassa.ru/merchant/Invoice/m_gHNBlO7kmWEblCed_zDQ"
-  }
 ]
